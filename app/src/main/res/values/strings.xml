@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyApplication_mip4j</string>
+    <string name="none"></string>
+    <string name="bitmapGray">圖像灰度化</string>
+    <string name="lineGrey">對圖像進行線性灰度變化</string>
+    <string name="grayBinary">對圖像進行二值化(0~255)</string>
+    <string name="re">復原</string>
+
+
+</resources>
